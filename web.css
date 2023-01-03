@@ -57,3 +57,46 @@ img:hover{
     color: rgb(26, 26, 26);
     text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.363);
 }
+.time{
+    display: inline-block;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 0px;
+    margin-top: 5px;
+}
+li{
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block;
+    padding-right: 150px;
+}
+.finish{
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block;
+    padding-right: 0px;
+}
+input{
+    width: 230px;
+    margin-left: 20px;
+}
+ul{
+    padding-left: 45px;
+}
+.button{
+    display: inline-block;
+    margin-top: 15px;
+    margin-left: 10px;
+    padding-right: 0px;
+}
+button{
+    border-color: #ffffff;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    padding-right: 0px;
+}
+button:hover{
+    border-color: #bebebe;
+}
