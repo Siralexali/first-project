@@ -12,3 +12,6 @@ div{
     border-radius: 15px;
     box-shadow: 5px 5px  rgba(29, 29, 29, 0.204),-5px -5px  rgba(29, 29, 29, 0.204);
 }
+div:hover{
+    background: linear-gradient(rgba(171, 179, 192, 0.796), rgba(220, 234, 248, 0.792));
+}
