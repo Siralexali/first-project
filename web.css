@@ -1,0 +1,14 @@
+html{
+    height: 100%;
+    background: linear-gradient(#0046ae, #9198e5);
+    height: 650px;
+}
+div{
+    height: 400px;
+    width: 270px;
+    background: linear-gradient(rgba(171, 179, 192, 0.694), rgba(220, 234, 248, 0.674));
+    margin: 0px auto;
+    margin-top: 125px;
+    border-radius: 15px;
+    box-shadow: 5px 5px  rgba(29, 29, 29, 0.204),-5px -5px  rgba(29, 29, 29, 0.204);
+}
