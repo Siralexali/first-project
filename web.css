@@ -36,7 +36,7 @@ img{
 }
 img:hover{
     box-shadow: 3px 3px  rgba(29, 29, 29, 0.204),-3px -3px  rgba(29, 29, 29, 0.204);
-    transition: 0.4s;
+    transition: 0.5s;
 }
 .name{
     text-align: center;
